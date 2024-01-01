@@ -1,4 +1,4 @@
-package com.springapp.mvc;
+package com.springapp.controller;
 
 import com.springapp.models.textMessage;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
